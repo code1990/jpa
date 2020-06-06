@@ -1,0 +1,253 @@
+Qt Creator快速入门	7.0	55	
+C++设计模式	7.1	20	
+Foundations of Qt Development	8.5	23	
+Rapid GUI Programming with Python and Qt	8.4	65	
+Advanced Qt Programming	0.0	6	
+C++ GUI Programming with Qt 4 (2nd Edition) (Prentice Hall Open Source Software Development Series)	7.8	49	
+Qt高级编程	7.8	30	
+Qt及Qt Quick开发实战精解	7.0	11	
+C++GUI Qt4编程	8.0	353	
+The Book of Qt 4	7.6	10	
+C++ GUI Programming with Qt 4	7.7	38	
+C++ Qt设计模式	7.1	19	
+C++ GUI Qt 4编程	6.8	17	
+Qt	0.0	0	
+Qt	0.0	0	
+Qt	0.0	0	
+Qt	0.0	0	
+Qt	0.0	0	
+基于嵌入式Linux的Qt图形程序实战开发	0.0	2	
+Qt中的C++技术	7.1	20	
+An Introduction to Design Patterns in C++ with Qt 4	7.0	13	
+Qt Quick核心编程	6.6	18	
+Linux Qt GUI开发详解	0.0	0	
+Qt及Linux操作系统窗口设计	0.0	8	
+24小时学通Qt编程	0.0	5	
+Python Qt GUI快速编程	0.0	8	
+Qt on Android 核心编程	0.0	5	
+Qt 5 编程入门	6.3	11	
+Programming with QT	0.0	2	
+Introduction to Design Patterns in C++ with Qt	0.0	7	
+Qt Creator快速入门(第2版)	0.0	9	
+Qt 5开发实战	5.7	11	
+Qt程序设计	0.0	3	
+KDE2/Qt编程宝典(附光盘) (平装)	0.0	4	
+Qt for Symbian	0.0	3	
+C++ GUI Programming with Qt 3 (Bruce Peren's Open Source)	0.0	3	
+PYTHON和QT快速GUI编程	0.0	0	
+Linux与Qt程序设计	0.0	5	
+Qt 4开发实践	0.0	3	
+Practical Qt.	0.0	0	
+Qt Extended	0.0	0	
+Qt Development Frameworks	0.0	0	
+Open Source Game Development	0.0	0	
+Gui Programming With Python	0.0	0	
+Application Development with Qt Creator	0.0	1	
+Qt5 Blueprints	0.0	1	
+Game Programming Using QT	0.0	0	
+C++	0.0	0	
+Mastering Qt 5	0.0	1	
+Professional Meego Application Development	0.0	0	
+Free Software Programmed in C++	0.0	0	
+Formerly Proprietary Software	0.0	0	
+GUI-Framework	0.0	0	
+Application Programming Interfaces	0.0	0	
+KDE	0.0	0	
+Computer Vision with OpenCV 3 and Qt5: Build visually appealing, multithreaded, cross-platform computer vision applications	0.0	0	
+Qt平台体系与应用	0.0	1	
+精通C++ GUI 程式設計－使用Qt 4	0.0	0	
+Novel Statistical Approaches to Assessing the Risk of Qt Prolongation and Sample Size Calculations in 'Thorough Qt/Qtc Studies'.	0.0	0	
+C++ GUI Programmierung mit Qt 4	0.0	0	
+Qt Programming for Linux and Windows 2000	0.0	0	
+Qt开发Symbian应用权威指南	0.0	0	
+How to Pass the QTS Numeracy Skills Test	0.0	0	
+嵌入式Qt实战教程	0.0	1	
+Deliverance Unpacked	0.0	0	
+Qt高级编程	0.0	0	
+Mastering Qt 5  Second Edition	0.0	1	
+C++ GUI Qt 4编程(第二版)	0.0	0	
+Acquired Long Qt Syndrome	0.0	0	
+Programming with QT	0.0	0	
+Secondary Science Reflective Reader (Achieving QTS)	0.0	0	
+Professional Studies	0.0	0	
+长QT综合征与尖端扭转型室性心动过速	0.0	0	
+The Definitive Guide to Mobile Qt	0.0	0	
+Acquired Long QT Syndrome	0.0	0	
+L'Intervalle Qt	0.0	0	
+Drug-Induced Long Qt Syndrome	0.0	0	
+How to Pass the QTS Numeracy and Literacy Skills Tests	0.0	0	
+Long QT Syndrome - A Medical Dictionary, Bibliography, and Annotated Research Guide to Internet References	0.0	0	
+The Long QT Syndrome	0.0	0	
+Le Courant Potassique Cardiaque Iks Et Le Syndrome Du Qt Long Acquis	0.0	0	
+Qt Extended Improved	0.0	0	
+(8263) 1986 Qt	0.0	0	
+Qt Development Frameworks	0.0	0	
+QT EXTENDED	0.0	0	
+QT FRAMEWORK	0.0	0	
+Software That Uses Qt	0.0	0	
+Qwik Time Quartz Metronome QT-3	0.0	0	
+Cps-Math Ap Mg EC Qt BS TLS I Ucf E	0.0	0	
+Qt-Basierte Software	0.0	0	
+Prilozheniya, Ispol?zuyushchie Qt	0.0	0	
+Software That Uses Qt, Including	0.0	0	
+Software That Uses Qt, Including	0.0	0	
+Computer Study of the Ionic Mechanisms of Organophosphorous-Caused Long-Qt Syndrome	0.0	0	
+How to Achieve Your Qts	0.0	0	
+QTS A Practical Introduction	0.0	0	
+QTS Information and Communications Technology	0.0	0	
+Application Development with Qt Creator, 2nd Edition	0.0	0	
+MIE ENG MATHS W QT 67	0.0	0	
+MIE ENG MATHS W QT 56	0.0	0	
+MIE ENG MATHS W QT 910	0.0	0	
+MIE ENG MATHS W QT 1011	0.0	0	
+MIE ENG MATHS W QT 89	0.0	0	
+MIE ENG MATHS W QT 78	0.0	0	
+Pass the Qts Numeracy Skills Test with Ease	0.0	0	
+Primary Science	0.0	0	
+Qt 4	0.0	0	
+How to Achieve Your QTS	0.0	0	
+Learning to Teach Primary PE (Achieving QTS)	0.0	0	
+Teaching Literacy Across the Primary Curriculum (Achieving Qts	0.0	0	
+Qt Quick	0.0	0	
+Prevalence of and Predictors for Qt Interval Prolongation and Adverse Outcomes in an Acutely Ill Cohort	0.0	0	
+パトロール・QT	0.0	0	
+Qt手機程式設計入門與實作	0.0	0	
+Short Qt Syndrome	0.0	0	
+Qts Skills Tests	0.0	0	
+Qt 4.6 - GUI-Entwicklung mit C++	0.0	0	
+Long Qt Syndrome, an Issue of Cardiac Electrophysiology Clinics	0.0	0	
+Automatic Detection of Qt and Related Heart Beat Intervals	0.0	0	
+Heart Rate Variability and Qt Dispersion	0.0	0	
+Qt Interval	0.0	0	
+Qts Skills Tests	0.0	0	
+Masterplex Qt	0.0	0	
+Qt Creator	0.0	0	
+Qt Quick	0.0	0	
+Qt Creator快速入门	0.0	4	
+Qt 5.9 C++开发指南	8.8	12	
+嵌入式应用Qt_C++传感数据采集开发实训教程/物联网工程专业系列教材	0.0	0	
+Qt C++跨平台图形界面程序设计基础/普通高等教育“十一五”国家级规划教材·计算机系列教材	0.0	0	
+C++ Qt程序设计工程实训教程	0.0	0	
+嵌入式系统与Qt程序开发	0.0	0	
+Qt图形界面编程入门/大学计算机基础教育规划教材	0.0	0	
+Qt编程快速入门	0.0	0	
+嵌入式Qt开发项目教程	0.0	0	
+Qt: A Clear and Concise Reference	0.0	0	
+The Minimum You Need to Know about Mono and Qt	0.0	0	
+Qt 5开发及实例（第4版）（含典型案例视频分析）	0.0	2	
+Qt 5编程入门(第2版)	0.0	0	
+Python Qt GUI与数据可视化编程	0.0	1	
+精通Qt4编程	7.2	28	
+精通Qt4编程	6.2	10	
+零基础学Qt4编程	0.0	5	
+Qt4图形设计与嵌入式开发	0.0	9	
+Qt5开发及实例	0.0	8	
+Qt5开发及实例（第2版）	0.0	8	
+Qtopia编程之道	0.0	5	
+OpenCV 2 Computer Vision Application Programming Cookbook	9.0	68	
+Qt5开发及实例(附光盘第3版)	0.0	3	
+Statistical Mechanics	9.6	13	
+In a Queer Time and Place	0.0	9	
+Introduction to Python Programming and Developing GUI Applications with PyQT	0.0	7	
+Linux窗口程序设计	7.5	14	
+Android移动应用开发	0.0	5	
+Lectures on Quantum Mechanics for Mathematics Students	0.0	2	
+Quantum Chance	0.0	4	
+PCT, Spin and Statistics, and All That	0.0	4	
+The Feynman Lectures on Physics, Vol. III	0.0	2	
+高考语文古诗文阅读解题技巧训练	0.0	2	
+Lectures on the Geometry of Quantization	0.0	0	
+Reflections on Quanta, Symmetries, and Supersymmetries	0.0	1	
+Advanced Quantum Mechanics	0.0	2	
+The Development of Quantum Theory	0.0	3	
+魔法師的幸福時光8海盜	0.0	3	
+Quentin Tarantino	0.0	0	
+Making All Things New	0.0	2	
+Q-Thomas Reader	8.1	31	
+QTP自动化测试实践	6.2	23	
+QTP自动化测试进阶	0.0	3	
+QTP项目应用与进阶	0.0	5	
+QTP自动化测试权威指南	0.0	4	
+Linux环境下Qt4图形界面与MySQL编程	0.0	4	
+QTP从实践到精通	0.0	5	
+C++ GUI Qt3编程	0.0	4	
+qtμt キューティーミューティー	0.0	9	
+QuickTide North 2011-2012	0.0	0	
+QuickTide South East 2011-2012	0.0	0	
+QuickTide South West	0.0	0	
+QuickTide North 2010-2011	0.0	0	
+QuickTide South West 2011-2012	0.0	0	
+QTP自动化测试与框架模型设计	0.0	3	
+QTP自动化测试最佳实践	0.0	0	
+QコちゃんTHE地球侵略少女 1	0.0	2	
+qtμt キューティーミューティー(2)	0.0	3	
+Qt5 C++ GUI Programming Cookbook	0.0	1	
+Q - the Autobiography of Quincy Jones	0.0	0	
+QコちゃんTHE地球侵略少女 2	0.0	2	
+Qtl Mapping of Stay Green and Related Tarits in Sorghum	0.0	0	
+Qt5 Python GUI Programming Cookbook	0.0	3	
+Q Tasks	0.0	0	
+Q, the Earliest Gospel	0.0	0	
+Q. T. Pie Meets Smart E	0.0	0	
+Q.T. Pie Catches the Rainbow	0.0	0	
+Q.T. Patootie	0.0	0	
+QTP for Professionals	0.0	0	
+Qtm	0.0	0	
+Qtch	0.0	0	
+Qtstalker	0.0	0	
+Qtractor	0.0	0	
+Qtparted	0.0	0	
+Qtext	0.0	0	
+Q TV NETWORK	0.0	0	
+Q T	0.0	0	
+Qtl Analysis of Fruit Color and Estimation of Genetic Diversity Using DNA Markers in Sweet Cherry	0.0	0	
+Q, the Essenes, and the Dead Sea Scrolls	0.0	0	
+Q T Ng	0.0	0	
+Q T M	0.0	0	
+Q T Ng M Q N	0.0	0	
+Q T?	0.0	0	
+Q T L Ng y de Zh Xu	0.0	0	
+Q. Tullii Ciceronis Commentariolum Petitionis Ad Marcum Fratrem...	0.0	0	
+Qtc - Quantum Tunnelling Composite	0.0	0	
+Qtutu Follows Through	0.0	0	
+Q-Teorii Konechno Porozhdennykh Grupp	0.0	0	
+Qtscript	0.0	0	
+Qtext	0.0	0	
+Q Theatre	0.0	0	
+Qtrax	0.0	0	
+Q-Telecom	0.0	0	
+QTEL	0.0	0	
+Q. T. HUSH	0.0	0	
+Q-TEE	0.0	0	
+Qtls Conferring Root Architecture in Cotton	0.0	0	
+Qtq	0.0	0	
+Qtrax	0.0	0	
+Qtfairuse	0.0	0	
+Q-Telecom	0.0	0	
+Qti	0.0	0	
+Q Theatre	0.0	0	
+Q-Tip Discography	0.0	0	
+Q-Tip	0.0	0	
+Qtel	0.0	0	
+Qtrax	0.0	0	
+Qtscript	0.0	0	
+Qtiplot	0.0	0	
+Qtcurve	0.0	0	
+Qtparted	0.0	0	
+QtC++跨平台图形界面程序设计基础(第2版计算机系列教材)	0.0	0	
+Q Tips	0.0	4	
+QTouch 组态软件控制技术及应用	0.0	0	
+Q. T. Pie's Rescue Adventure	0.0	0	
+Q Tip	0.0	0	
+Biblioteka QT4. Sozdanie prikladnykh prilozhenij v srede Linux	0.0	0	
+(6850) 1981 Qt3	0.0	0	
+Yamaha Qt50	0.0	0	
+YAMAHA QT50	0.0	0	
+(52286) 1990 Qt1	0.0	0	
+(8015) 1990 Qt2	0.0	0	
+(13043) 1990 Qt4	0.0	0	
+(10312) 1990 Qt9	0.0	0	
+(8476) 1986 Qt2	0.0	0	
+(14828) 1986 Qt1	0.0	0	
+Hands-On GUI Programming with C++ and Qt5	0.0	0	
+OpenCV 3和Qt5计算机视觉应用开发	0.0	3	
